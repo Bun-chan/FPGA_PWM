@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MSEE/5363/Week2/DE10litePWM/simulation/modelsim
+vdebouncer
+Z1 !s110 1682047412
+!i10b 1
+!s100 WmWdAMUSE`>:OAid?:=GK3
+IXP9Oj_7J?c>aFBFM3^UOJ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1681774130
+8D:/MSEE/5363/Week2/DE10litePWM/debouncer.v
+FD:/MSEE/5363/Week2/DE10litePWM/debouncer.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1682047412.000000
+!s107 D:/MSEE/5363/Week2/DE10litePWM/debouncer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10litePWM|D:/MSEE/5363/Week2/DE10litePWM/debouncer.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+D:/MSEE/5363/Week2/DE10litePWM
+Z8 tCvgOpt 0
+vpwm_gen
+R1
+!i10b 1
+!s100 :EWHK?OS1fg=gGzU`dC5U0
+I`NL?DHf^<MX94Y3XbinCP3
+R2
+R0
+R3
+8D:/MSEE/5363/Week2/DE10litePWM/pwm_gen.v
+FD:/MSEE/5363/Week2/DE10litePWM/pwm_gen.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/MSEE/5363/Week2/DE10litePWM/pwm_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10litePWM|D:/MSEE/5363/Week2/DE10litePWM/pwm_gen.v|
+!i113 1
+R6
+R7
+R8
+vpwm_led_top
+R1
+!i10b 1
+!s100 c5gTdZ[L^B<JRY]U<cmgo1
+IRl1CgZOIYl<YNV]zl4^><3
+R2
+R0
+w1681878433
+8D:/MSEE/5363/Week2/DE10litePWM/pwm_led_top.v
+FD:/MSEE/5363/Week2/DE10litePWM/pwm_led_top.v
+L0 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/MSEE/5363/Week2/DE10litePWM/pwm_led_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10litePWM|D:/MSEE/5363/Week2/DE10litePWM/pwm_led_top.v|
+!i113 1
+R6
+R7
+R8
+vpwm_pll
+R1
+!i10b 1
+!s100 Rog<4Y[jdn_8P@`az7`XQ0
+IX722:0:Un4NmKdHV5V=_d1
+R2
+R0
+w1681861992
+8D:/MSEE/5363/Week2/DE10litePWM/pwm_pll.v
+FD:/MSEE/5363/Week2/DE10litePWM/pwm_pll.v
+L0 39
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/MSEE/5363/Week2/DE10litePWM/pwm_pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10litePWM|D:/MSEE/5363/Week2/DE10litePWM/pwm_pll.v|
+!i113 1
+R6
+R7
+R8
+vpwm_pll_altpll
+R1
+!i10b 1
+!s100 =JA[hN7klM]_8:_6e;MVz2
+IfTEh6YBBPZAgbND5d9ml61
+R2
+R0
+w1681878297
+8D:/MSEE/5363/Week2/DE10litePWM/db/pwm_pll_altpll.v
+FD:/MSEE/5363/Week2/DE10litePWM/db/pwm_pll_altpll.v
+L0 29
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/MSEE/5363/Week2/DE10litePWM/db/pwm_pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10litePWM/db|D:/MSEE/5363/Week2/DE10litePWM/db/pwm_pll_altpll.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+D:/MSEE/5363/Week2/DE10litePWM/db
+R8
